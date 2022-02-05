@@ -1,0 +1,13 @@
+.sun {
+  padding: 10px;
+  width: 90px;
+  margin: 15px;
+  background-color: #bcd5f3;
+  border-radius: 20px;
+  border: 2px solid #f8e7df;
+}
+
+.current-time {
+  vertical-align: text-bottom;
+  font-size: 28px;
+}
