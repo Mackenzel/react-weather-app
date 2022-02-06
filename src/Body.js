@@ -28,7 +28,13 @@ export default function Body() {
           <h2 className="found-temp">
             <span id="found-temp">{weatherData.temp}</span>
             <span className="degree-unit">
-              <a href="/">°F</a>|<a href="/">°C</a>
+              <button type="button" className="btn btn-link ">
+                °F
+              </button>
+              |
+              <button type="button" className="btn btn-link ">
+                °C
+              </button>
             </span>
           </h2>
         </div>

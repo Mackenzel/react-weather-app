@@ -15,7 +15,6 @@
 }
 .found-temp {
   font-size: 70px;
-  text-align: right;
 }
 .current-day {
   font-size: 20px;
@@ -24,5 +23,6 @@
   text-align: center;
 }
 .current-right {
+  padding: 10px 0px;
   text-align: center;
 }
