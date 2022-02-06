@@ -1,6 +1,9 @@
 .fore-img {
   width: 80px;
   float: right;
+  position: relative;
+  top: -20px;
+  right: 5px;
 }
 .border-box {
   border-spacing: 0px;
@@ -9,6 +12,8 @@
   margin: 8px;
   background-color: #9994b4;
   border-radius: 20px;
+  padding: 10px;
+  max-width: 120px;
 }
 .forecast-day {
   color: #f8e7df;

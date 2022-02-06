@@ -3,7 +3,7 @@ import "./Forecast.css";
 export default function Forecast() {
   return (
     <div className="Forecast">
-      <div className="col-2 border-box pb-5">
+      <div className="border-box pb-5">
         <span className="forecast-day">Thur</span>
         <br />
         <span className="max">51</span>
