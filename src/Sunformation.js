@@ -1,4 +1,4 @@
-import React from "react";
+import React from `react`;
 import "./Sunformation.css";
 
 export default function Sunformation() {
